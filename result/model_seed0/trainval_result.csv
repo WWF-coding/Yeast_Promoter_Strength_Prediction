@@ -1,0 +1,7 @@
+model_fn,Accuracy,Sensitivity,Specificity
+/home/genuser/promoter/CorePromoterActivityPrediction/result/model_seed0/promoter_0_24.pkl,0.698170731707317,0.6762494238127766,0.841093695776765
+/home/genuser/promoter/CorePromoterActivityPrediction/result/model_seed0/promoter_1_34.pkl,0.801829268292683,0.7929896892178768,0.8976538209664539
+/home/genuser/promoter/CorePromoterActivityPrediction/result/model_seed0/promoter_2_33.pkl,0.7332317073170732,0.7454897479322665,0.8704102070980478
+/home/genuser/promoter/CorePromoterActivityPrediction/result/model_seed0/promoter_3_15.pkl,0.5579268292682927,0.5631668808821866,0.7717503975607066
+/home/genuser/promoter/CorePromoterActivityPrediction/result/model_seed0/promoter_4_56.pkl,0.8353658536585366,0.8360413881915093,0.9185650489941946
+ensemble,0.8902439024390244,0.8830487308023183,0.9448625797341439
