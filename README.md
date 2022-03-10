@@ -7,6 +7,6 @@
 4. torch
 
 - Usage
-1. cd code
-2. pip install -r requirements.txt
+1. pip install -r requirements.txtcd
+2. cd code
 3. python CoreproStrengthPrediction.py
